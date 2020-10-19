@@ -1,0 +1,58 @@
+
+body{
+    background-image: linear-gradient(black,#8c1d1d,  #bf5656,#f7e4e4)
+}
+
+video{
+    width: 50%;
+    height:50%;
+   
+    padding-top:100px;
+    
+
+}
+audio{
+backface-visibility: hidden;
+        padding-left: 100px;
+    padding-right:100px;
+}
+
+.table{
+    text-align: center;
+    display: table;
+    border: 10px;
+    margin: 10px;
+    
+}
+
+.title{
+    display: table-caption;
+    color:#f7e4e4;
+     text-shadow: 
+    5px 5px 5px white;
+    font-size: 350%;
+    letter-spacing: 15px    
+}
+
+.row{
+    display: table-row;
+
+   
+    
+}
+
+.cell{
+    display: table-cell;
+    padding-left: 100px;
+    padding-right:100px;
+    
+}
+p{    
+font-size: 110%;   
+    
+}
+
+h2{    
+font-size: 150%;
+    
+}
